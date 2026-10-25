@@ -101,4 +101,6 @@ print(n) # None
 x = 5 # int literal
 y = 5.2 # float literal
 z = "hello" # string literal
-~
+
+# differnce b/t list and tuple.
+# 
